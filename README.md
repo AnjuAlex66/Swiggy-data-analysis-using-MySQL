@@ -8,12 +8,19 @@ To perform a comprehensive analysis of restaurant data from Swiggy using SQL que
 About the Dataset: The dataset swiggy_data contains the following columns:
 
 Restaurant: Name of the restaurant.
+
 City: City where the restaurant is located.
+
 Avg_ratings: Average ratings of the restaurant.
+
 Delivery_time: Delivery time in minutes.
+
 Price: Price of a typical meal at the restaurant.
+
 Total_ratings: Total number of ratings received.
+
 Address: Address of the restaurant.
+
 Food_type: Type of cuisine served.
 
 Significance
